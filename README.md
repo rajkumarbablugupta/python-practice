@@ -6,6 +6,7 @@ Hello! My name is Rajkumar.
 I am a BSc Data Science and Data Analytics student.
 
 ## Skills I Am Learning
+- Excel
 - Python
 - Sql
 - R language
