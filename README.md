@@ -19,4 +19,9 @@ I am a BSc Data Science and Data Analytics student.
 - Print Statements
 - Arithmetic Operations
 - If-Else Conditions
-
+- Python Lists
+- Lists Sorting
+- Lists Reversing
+- List Copiying
+- List Methods (append, insert, extend)
+- Count and Index Methods
